@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **The official AON MCP Server repository is [aon-pro/aonpro-mcp](https://github.com/aon-pro/aonpro-mcp).** This repository is a fork of `punkpeye/awesome-mcp-servers`, not the AON MCP Server source. For installation, configuration, and updates, use the official repository.
+
+
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
